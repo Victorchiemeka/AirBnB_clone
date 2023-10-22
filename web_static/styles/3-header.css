@@ -1,10 +1,16 @@
 header {
-    /* background-color: #FF0000; */
-    color: white;
-    border: 1px #CCCCCC ;
+    background-color: white;
+    border: 1px solid #CCCCCC;
     height: 70px;
     width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+}
+
+.logo {
+    display: flex; /* This makes the image and text stay on the same line */
+    align-items: center; /* Vertically center the content within the .logo div */
+    justify-content: flex-start; /* Align content to the start (left) of the .logo div */
+}
+
+.logo img {
+    margin-right: 10px; /* You can adjust the margin as needed */
 }
