@@ -72,6 +72,6 @@ $ python3 -m unittest tests/test_console.py
 
 ## Author
 
-- **Zalisile Bazil Stuli** - [GitHub Profile](https://github.com/bazileros)
+- **Victor Chukwuemeka** - [GitHub Profile](https://github.com/victorchiemeka)
   
   
